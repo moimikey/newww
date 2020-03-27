@@ -27,7 +27,7 @@
     "gulp-nodemon": "^1.0.2",
     "gulp-stylus": "^1.0.0",
     "gulp-uglify": "^0.3.0",
-    "lab": "^3.1.1"
+    "lab": "^18.0.2"
   },
   "license": "ISC",
   "main": "server.js",
