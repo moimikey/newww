@@ -4,7 +4,7 @@
   "version": "0.0.3",
   "author": "npm, Inc. <support@npmjs.com>",
   "dependencies": {
-    "catbox": "^2.2.1",
+    "catbox": "^10.0.6",
     "catbox-redis": "^1.0.1",
     "couch-login": "^1.0.0",
     "github-url-from-git": "^1.1.1",
