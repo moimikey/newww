@@ -22,7 +22,7 @@
   },
   "devDependencies": {
     "grunt": "^0.4.5",
-    "gulp": "^3.6.2",
+    "gulp": "^4.0.2",
     "gulp-concat": "^2.2.0",
     "gulp-nodemon": "^1.0.2",
     "gulp-stylus": "^1.0.0",
