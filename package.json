@@ -11,7 +11,7 @@
     "gravatar": "^1.0.6",
     "handlebars": "^2.0.0-alpha.2",
     "hapi": "^5.0.0",
-    "hapi-auth-cookie": "^1.0.3",
+    "hapi-auth-cookie": "^10.0.0",
     "joi": "^3.1.0",
     "marked": "^0.3.2",
     "moment": "^2.6.0",
